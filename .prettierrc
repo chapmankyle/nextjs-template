@@ -1,0 +1,7 @@
+{
+  "semi": false,
+  "singleQuote": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "experimentalTernaries": false
+}
